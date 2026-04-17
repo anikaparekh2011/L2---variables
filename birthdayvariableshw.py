@@ -1,0 +1,6 @@
+friend1 = input("Friend 1 please enter your birthday here:")
+friend2 = input("Friend 2 enter your birthday here: ")
+friend3 = input("Friend 3 please enter your birthday here:")
+friend4 = input("Friend 4 please enter your birthday here:")
+friend5 = input("Friend 5 please enter your birthday here:")
+print("Yayy I have all my friends birthdays now!! :)")
